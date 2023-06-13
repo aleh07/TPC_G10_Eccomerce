@@ -7,12 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPC_G10_Eccomerce", "TPC_G1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{818CB9B7-EC9F-4A8F-AA4F-96DFF8AB1BE4}"
 	ProjectSection(SolutionItems) = preProject
-		Tienda_Vinilos.sql = Tienda_Vinilos.sql
+		DB.sql = DB.sql
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Negocio", "Negocios\Negocio.csproj", "{EBF906F4-323A-4A9C-BF8D-DBA92E30F441}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocios\Negocio.csproj", "{EBF906F4-323A-4A9C-BF8D-DBA92E30F441}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{54A807FA-608D-44C0-ABCF-AE1D62D6CE22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{54A807FA-608D-44C0-ABCF-AE1D62D6CE22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Dominio/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Dominio.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Dominio.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Dominio/1.0.0": {
-      "type": "project",
-      "path": "../Dominio/Dominio.csproj",
-      "msbuildProject": "../Dominio/Dominio.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Dominio >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\aleh0\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC2023\\TPC_G10_Eccomerce\\Negocios\\Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Negocios\\Negocio.csproj",
       "projectName": "Negocio",
-      "projectPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC2023\\TPC_G10_Eccomerce\\Negocios\\Negocio.csproj",
+      "projectPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Negocios\\Negocio.csproj",
       "packagesPath": "C:\\Users\\aleh0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC2023\\TPC_G10_Eccomerce\\Negocios\\obj\\",
+      "outputPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Negocios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleh0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC2023\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC2023\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
