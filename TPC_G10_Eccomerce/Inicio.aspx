@@ -9,7 +9,7 @@
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner">
+  <div class="carousel-inner" >
     <div class="carousel-item active">
       <img src="https://tap-multimedia-1156.nyc3.digitaloceanspaces.com/slider/3966/large/COMPU.jpg" class="d-block w-100 " alt="...">
     </div>
@@ -30,21 +30,41 @@
   </button>
 </div>
     <br />
-
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://contentv2.tap-commerce.com/cover/small/602455621276_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="d-block w-25 h-25" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="https://contentv2.tap-commerce.com/cover/small/196588145018_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="d-block w-25 h-25" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="https://contentv2.tap-commerce.com/cover/small/19658781332_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="d-block w-25 h-25" alt="...">
-    </div>
-  </div>
-</div>
    
+    <div class="row row-cols-3 row-cols-md-3 g-4" style="justify-content:space-around ">
+       <div class="card" style="width: 18rem;">
+  <img src="https://contentv2.tap-commerce.com/cover/small/60244578982_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">MIDNIGHT MOONSTONE BLUE</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Agregar</a>
+  </div>
+</div>   
+  <div class="card" style="width: 18rem; ">
+  <img src="https://contentv2.tap-commerce.com/cover/small/194398219011_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">MTV UNPLUGGED</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Agregar</a>
+  </div>
+</div>   
+         <div class="card" style="width: 18rem;">
+  <img src="https://contentv2.tap-commerce.com/cover/small/888750883414_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">SIGNOS</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Agregar</a>
+  </div>
+</div>   
+         <div class="card" style="width: 18rem;">
+  <img src="https://contentv2.tap-commerce.com/cover/small/19658719671_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">RENAISSANCE</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Agregar</a>
+  </div>
+</div>   
+  </div>
     <nav aria-label="...">
   <ul class="pagination">
     <li class="page-item disabled">

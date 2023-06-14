@@ -4,8 +4,12 @@ body {
     padding-bottom: 20px;
    
 }
-.carousel slide{
-    height:200px;
+.carousel-inner{
+    height: 250px;
+}
+.row row-cols-3 row-cols-md-3 g-4{
+    padding:2rem;
+     justify-content:space-around;
 }
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
