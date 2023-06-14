@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MkI5teFpVu9BUX4x0gCz2HgYNb7PgbI7xrCnFFhzLNUVm1u9lu0mnJbfNvohsGyLgePbAB+4PNhaIr0JZUuEBg==",
+  "dgSpecHash": "DtCj+NXZ8MAMcxfF5zC7QYhusTYxl3wgMsYGeGCGLkn656BDJYx9H9riidVAtgya0pYp37yD2putMdSzMvXJXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\RepoVinilos\\TPC_G10_Eccomerce\\Negocios\\Negocio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Agus\\OneDrive\\Desktop\\TP-FINAL\\Negocios\\Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Agus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Agus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Agus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
