@@ -48,7 +48,7 @@
     
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="Inicio.aspx">Inicio</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -56,12 +56,14 @@
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
           <button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
+           Genero
           </button>
           <ul class="dropdown-menu dropdown-menu-dark">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#">internacional</a></li>
+            <li><a class="dropdown-item" href="#"> Rock</a></li>
+            <li><a class="dropdown-item" href="#"> Pop</a></li>   
+            <li><a class="dropdown-item" href="#"> Jazz</a></li>
+            <li><a class="dropdown-item" href="#">Tango</a></li>
           </ul>
         </li>
       </ul>

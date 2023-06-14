@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\aleh0\\OneDrive\\Escritorio\\RepoVinilos\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\aleh0\\OneDrive\\Escritorio\\RepoVinilos\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\RepoVinilos\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\RepoVinilos\\TPC_G10_Eccomerce\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\aleh0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\TPC_G10_Eccomerce\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\aleh0\\OneDrive\\Escritorio\\RepoVinilos\\TPC_G10_Eccomerce\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleh0\\AppData\\Roaming\\NuGet\\NuGet.Config",

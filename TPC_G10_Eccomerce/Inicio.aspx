@@ -11,13 +11,13 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://plazamusica.com.ar/wp-content/uploads/2022/12/1-PIEZA-CATTANEO-1-1425x0.jpg" class="d-block w-100 " alt="...">
+      <img src="https://tap-multimedia-1156.nyc3.digitaloceanspaces.com/slider/3966/large/COMPU.jpg" class="d-block w-100 " alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://plazamusica.com.ar/wp-content/uploads/2023/02/1-PIEZA-ENVIOS-GRATIS-1425x0.jpg" class="d-block w-100 " alt="...">
+      <img src="https://tap-multimedia-1156.nyc3.digitaloceanspaces.com/slider/3649/large/slider_COMPU_METALLICA.jpg" class="d-block w-100 " alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://plazamusica.com.ar/wp-content/uploads/2023/03/1-PIEZA-BANNER-RHCP-1425x0.jpg" class="d-block w-100 " alt="...">
+      <img src="https://tap-multimedia-1156.nyc3.digitaloceanspaces.com/slider/2484/large/slider_COMPU_EADDA.jpg" class="d-block w-100 " alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -34,13 +34,13 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://plazamusica.com.ar/wp-content/uploads/2020/12/D_NQ_NP_849300-MLA41377190618_042020-O-300x300.jpg" class="d-block w-25 h-25" alt="...">
+      <img src="https://contentv2.tap-commerce.com/cover/small/602455621276_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="d-block w-25 h-25" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://plazamusica.com.ar/wp-content/uploads/2021/12/61af8e85bb3de_image_name-300x300.jpg" class="d-block w-25 h-25" alt="...">
+      <img src="https://contentv2.tap-commerce.com/cover/small/196588145018_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="d-block w-25 h-25" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://plazamusica.com.ar/wp-content/uploads/2021/05/R-11423850-1517619907-5342.jpeg-300x300.jpg" class="d-block w-25 h-25" alt="...">
+      <img src="https://contentv2.tap-commerce.com/cover/small/19658781332_1.jpg?id_com=1156&w=160&h=250&r=bpad" class="d-block w-25 h-25" alt="...">
     </div>
   </div>
 </div>
