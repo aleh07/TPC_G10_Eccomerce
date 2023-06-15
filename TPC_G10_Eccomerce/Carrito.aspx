@@ -35,6 +35,6 @@
     </tbody>
     </table>
 <p>Total: <asp:Label ID="lblTotal" runat="server" text="200" /></p>
-    <asp:Button Text="Comprar" CssClass="btn btn-primary"  id="BtnComprar" OnClick="BtnComprar_Click" runat="server" /> 
+    <a href="Login.aspx" class="btn btn-primary">Comprar</a> 
          
 </asp:Content>

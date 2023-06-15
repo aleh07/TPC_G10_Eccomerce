@@ -14,9 +14,6 @@ namespace TPC_G10_Eccomerce
 
         }
 
-        protected void BtnComprar_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Login.aspx");
-        }
+       
     }
 }

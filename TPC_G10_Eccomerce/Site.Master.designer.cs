@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace TPC_G10_Eccomerce
+namespace TPWeb_CarritoDeCompras
 {
 
 

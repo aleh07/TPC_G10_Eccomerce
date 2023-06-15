@@ -16,9 +16,6 @@ namespace TPC_G10_Eccomerce
 
        
 
-        protected void BtnAltas_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Formulario.aspx");
-        }
+       
     }
 }
