@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DtCj+NXZ8MAMcxfF5zC7QYhusTYxl3wgMsYGeGCGLkn656BDJYx9H9riidVAtgya0pYp37yD2putMdSzMvXJXQ==",
+  "dgSpecHash": "dezxhLolYiiHFqklzL2GwMbXeQH+eWCJMdQviIujy/Mm5qc7W0aE+8zh99PlW2QKCgB5ltLDBUGm2K5tFGnKkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agus\\OneDrive\\Desktop\\TP-FINAL\\Negocios\\Negocio.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Programacion III\\TPC_G10_Eccomerce\\Negocios\\Negocio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Agus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Agus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Agus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
