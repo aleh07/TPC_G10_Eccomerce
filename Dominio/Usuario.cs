@@ -1,7 +1,7 @@
+﻿
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
 namespace Dominio
 {
     public enum TipoUsuario
@@ -14,9 +14,7 @@ namespace Dominio
         public int ID { get; set; }
         public string UserName { get; set; }
         public string Pass { get; set; }
-
         public TipoUsuario TipoUsuario { get; set; }
         public DateTime FechaCreacion { get; set; }
-
     }
 }
