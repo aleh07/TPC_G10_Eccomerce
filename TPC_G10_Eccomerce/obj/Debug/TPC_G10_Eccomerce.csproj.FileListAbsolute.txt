@@ -302,3 +302,7 @@ C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin
 C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\roslyn\vbc.rsp
 C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\roslyn\VBCSCompiler.exe
 C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\Negocio.dll
+C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\dfdfd\TPC_G10_Eccomerce\TPC_G10_Eccomerce\bin\Negocio.pdb

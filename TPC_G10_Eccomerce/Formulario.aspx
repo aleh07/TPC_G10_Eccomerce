@@ -17,7 +17,7 @@
         <asp:TextBox ID="TxtImgContraTapa" class="form-control" type="text" placeholder="Ingrese url imagen Contratapa"  runat="server"></asp:TextBox>     
         <h5> Campos Obligatorios(*)</h5>  
         <h3>Genero</h3>
-        <asp:DropDownList runat="server" ID="ddlGenero" CssClass="form-control-sm"></asp:DropDownList>
+        <asp:DropDownList runat="server" ID="ddlGenero"  CssClass="form-control-sm"></asp:DropDownList>
         <h3>Categoria</h3> 
         <asp:DropDownList runat="server" ID="ddlCategoria" CssClass="form-control-sm">
              

@@ -51,10 +51,6 @@
       <Project>{e1fb4e23-dfd6-4244-8eb7-72c3e718d448}</Project>
       <Name>Dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\TPC_G10_Eccomerce\TPC_G10_Eccomerce.csproj">
-      <Project>{c1a110bf-2bb6-4c43-873b-e871fdeee2d4}</Project>
-      <Name>TPC_G10_Eccomerce</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
